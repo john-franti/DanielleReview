@@ -1,4 +1,4 @@
-# Module 3 Code Challenge
+# Movie Tickets
 
 ![Example](assets/code-challenge-3.gif)
 
